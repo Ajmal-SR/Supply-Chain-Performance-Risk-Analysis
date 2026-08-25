@@ -128,8 +128,7 @@ Focuses on shipping efficiency and delivery risk.
 
 **Dashboard Preview**
 
-![Delivery & Shipping Performance](<img width="945" height="538" alt="image" src="https://github.com/user-attachments/assets/c75c1a6b-9ffa-468d-8478-1addac2af1cf" />)
-
+![Delivery & Shipping Performance](https://github.com/Ajmal-SR/Supply-Chain-Performance-Risk-Analysis/blob/6904012e787d7d9994335f2ea10a99c5769d4d1e/delivary%20Analysis%20page%202.jpg)
 ---
 
 ### 3. Customer & Market Performance
