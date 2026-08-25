@@ -163,9 +163,7 @@ Provides detailed analysis of delivery risk and operational performance.
 
 **Dashboard Preview**
 
-![Operational Risk & Analysis](<img width="957" height="549" alt="image" src="https://github.com/user-attachments/assets/474b7d94-6661-47f4-a15a-3356117e8203" />
-)
-
+![Operational Risk & Analysis](https://github.com/Ajmal-SR/Supply-Chain-Performance-Risk-Analysis/blob/bd96bdc8328d1c37bc5083b3c0472b6e66c920c5/Risk%20Analysis%20page%204.jpg)
 ---
 
 ## 🎛️ Interactive Features
