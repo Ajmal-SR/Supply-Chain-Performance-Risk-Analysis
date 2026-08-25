@@ -275,8 +275,6 @@ This project demonstrates the ability to:
 
 **Ajmal**
 
-**Data Analyst | Power BI | SQL | Python**
-
 ---
 
 ## ⭐ Project Skills Demonstrated
