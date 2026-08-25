@@ -145,7 +145,7 @@ Analyzes customer segments, markets, regions, and shipping modes.
 
 **Dashboard Preview**
 
-![Customer & Market Performance](<img width="962" height="536" alt="image" src="https://github.com/user-attachments/assets/d81942a5-eee9-49a7-8a97-bd95d49ac25c" />)
+![Customer & Market Performance](https://github.com/Ajmal-SR/Supply-Chain-Performance-Risk-Analysis/blob/6b813c3148b131ef375eb1d11ebd185e7cd357cb/Customer%20%26%20market%20performance%20page%203.jpg)
 
 ---
 
