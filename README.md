@@ -166,7 +166,8 @@ Provides detailed analysis of delivery risk and operational performance.
 
 **Dashboard Preview**
 
-![Operational Risk & Analysis](dashboard/operational-risk.png)
+![Operational Risk & Analysis](<img width="957" height="549" alt="image" src="https://github.com/user-attachments/assets/474b7d94-6661-47f4-a15a-3356117e8203" />
+)
 
 ---
 
