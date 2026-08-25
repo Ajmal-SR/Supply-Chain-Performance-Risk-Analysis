@@ -128,7 +128,8 @@ Focuses on shipping efficiency and delivery risk.
 
 **Dashboard Preview**
 
-![Delivery & Shipping Performance](dashboard/delivery-shipping.png)
+![Delivery & Shipping Performance](<img width="945" height="538" alt="image" src="https://github.com/user-attachments/assets/c75c1a6b-9ffa-468d-8478-1addac2af1cf" />
+)
 
 ---
 
