@@ -87,7 +87,7 @@ Key DAX calculations developed for the dashboard include:
 
 The complete DAX documentation is available here:
 
-[`documentation/dax-measures.md`](documentation/dax-measures.md)
+[`documentation/dax-measures.md`](Dax measures)
 
 ---
 
