@@ -1,0 +1,84 @@
+# DAX Measures
+
+## Total Sales
+
+```DAX
+Total Sales =
+SUM('DataCoSupplyChainDataset (2)'[Sales])
+```
+
+## Total Profit
+
+```DAX
+Total Profit =
+SUM('DataCoSupplyChainDataset (2)'[Order Profit Per Order])
+```
+
+## Total Orders
+
+```DAX
+Total Orders =
+DISTINCTCOUNT('DataCoSupplyChainDataset (2)'[Order Id])
+```
+
+## Profit Margin %
+
+```DAX
+Profit Margin % =
+DIVIDE([Total Profit], [Total Sales], 0)
+```
+
+## Actual Shipping Time(days)
+
+```DAX
+Actual Shipping Time(days) =
+AVERAGE('DataCoSupplyChainDataset (2)'[Days for shipping (real)])
+```
+
+## Scheduled Shipping Time
+
+```DAX
+Scheduled Shipping Time =
+AVERAGE('DataCoSupplyChainDataset (2)'[Days for shipment (scheduled)])
+```
+
+## Shipping Delay
+
+```DAX
+Shipping Delay =
+[Actual Shipping Time(days)] - [Scheduled Shipping Time]
+```
+
+## Late Risk Orders
+
+```DAX
+Late Risk Orders =
+CALCULATE(
+    DISTINCTCOUNT('DataCoSupplyChainDataset (2)'[Order Id]),
+    'DataCoSupplyChainDataset (2)'[Late_delivery_risk] = 1
+)
+```
+
+## Late Delivery %
+
+```DAX
+Late Delivery % =
+DIVIDE([Late Risk Orders], [Total Orders], 0)
+```
+
+## Order Date Only
+
+```DAX
+Order Date Only =
+DATEVALUE('DataCoSupplyChainDataset (2)'[order date (DateOrders)])
+```
+
+## DateTable
+
+```DAX
+DateTable =
+CALENDAR(
+    MIN('DataCoSupplyChainDataset (2)'[order date (DateOrders)]),
+    MAX('DataCoSupplyChainDataset (2)'[order date (DateOrders)])
+)
+```
