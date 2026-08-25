@@ -128,8 +128,7 @@ Focuses on shipping efficiency and delivery risk.
 
 **Dashboard Preview**
 
-![Delivery & Shipping Performance](<img width="945" height="538" alt="image" src="https://github.com/user-attachments/assets/c75c1a6b-9ffa-468d-8478-1addac2af1cf" />
-)
+![Delivery & Shipping Performance](<img width="945" height="538" alt="image" src="https://github.com/user-attachments/assets/c75c1a6b-9ffa-468d-8478-1addac2af1cf" />)
 
 ---
 
@@ -146,8 +145,7 @@ Analyzes customer segments, markets, regions, and shipping modes.
 
 **Dashboard Preview**
 
-![Customer & Market Performance](<img width="962" height="536" alt="image" src="https://github.com/user-attachments/assets/d81942a5-eee9-49a7-8a97-bd95d49ac25c" />
-)
+![Customer & Market Performance](<img width="962" height="536" alt="image" src="https://github.com/user-attachments/assets/d81942a5-eee9-49a7-8a97-bd95d49ac25c" />)
 
 ---
 
