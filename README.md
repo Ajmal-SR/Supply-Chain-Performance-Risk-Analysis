@@ -110,7 +110,7 @@ Provides a high-level view of overall business performance.
 
 **Dashboard Preview**
 
-![Executive Overview](dashboard/executive-overview.png)
+![Executive Overview](https://github.com/Ajmal-SR/Supply-Chain-Performance-Risk-Analysis/blob/58b2abdc9e686b933ee5966290bc53fc856b0930/Overview%20page%20%201.jpg)
 
 ---
 
