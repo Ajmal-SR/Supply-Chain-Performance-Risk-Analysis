@@ -146,7 +146,8 @@ Analyzes customer segments, markets, regions, and shipping modes.
 
 **Dashboard Preview**
 
-![Customer & Market Performance](dashboard/customer-market.png)
+![Customer & Market Performance](<img width="962" height="536" alt="image" src="https://github.com/user-attachments/assets/d81942a5-eee9-49a7-8a97-bd95d49ac25c" />
+)
 
 ---
 
