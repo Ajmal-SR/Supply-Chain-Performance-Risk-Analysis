@@ -237,24 +237,6 @@ Supply-Chain-Performance-Risk-Analysis/
 
 ---
 
-## 📊 Dashboard Highlights
-
-### Executive Overview
-
-![Executive Overview](dashboard/executive-overview.png)
-
-### Delivery & Shipping Performance
-
-![Delivery & Shipping](dashboard/delivery-shipping.png)
-
-### Customer & Market Performance
-
-![Customer & Market](dashboard/customer-market.png)
-
-### Operational Risk & Analysis
-
-![Operational Risk](dashboard/operational-risk.png)
-
 ---
 
 ## 🚀 Project Outcome
