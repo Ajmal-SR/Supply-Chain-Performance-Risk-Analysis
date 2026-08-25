@@ -87,7 +87,7 @@ Key DAX calculations developed for the dashboard include:
 
 The complete DAX documentation is available here:
 
-[`documentation/dax-measures.md`](Dax measures)
+[`documentation/dax-measures.md`](https://github.com/Ajmal-SR/Supply-Chain-Performance-Risk-Analysis/blob/14e1270311a51e2d57ac1507ea848db9fff4d39b/Dax%20measures)
 
 ---
 
